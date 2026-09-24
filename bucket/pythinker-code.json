@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Pythoughts-labs/pythinker-code/releases/download/v0.62.0/pythinker-0.62.0-x86_64-pc-windows-msvc-onedir.zip",
+      "url": "https://github.com/PyModel/pythinker-code/releases/download/v0.62.0/pythinker-0.62.0-x86_64-pc-windows-msvc-onedir.zip",
       "hash": "0e7acf936f75e6688d6e7ae50e79ecff2ffa6122c130303c75bc86f4d695facf"
     }
   },
@@ -14,12 +14,12 @@
     "PYTHINKER_MANAGED": "scoop"
   },
   "checkver": {
-    "github": "https://github.com/Pythoughts-labs/pythinker-code"
+    "github": "https://github.com/PyModel/pythinker-code"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/Pythoughts-labs/pythinker-code/releases/download/v$version/pythinker-$version-x86_64-pc-windows-msvc-onedir.zip"
+        "url": "https://github.com/PyModel/pythinker-code/releases/download/v$version/pythinker-$version-x86_64-pc-windows-msvc-onedir.zip"
       }
     },
     "hash": {
